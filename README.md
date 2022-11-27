@@ -1,17 +1,7 @@
-<div align="center" style="background-color: #111; padding: 100;">
-    <a href="https://github.com/xteve-project/xTeVe"><img width="880" height="200" src="html/img/logo_b_880x200.jpg" alt="xTeVe" /></a>
-</div>
-<br>
-
 # xTeVe
 ## M3U Proxy for Plex DVR and Emby Live TV.  
 
 Documentation for setup and configuration is [here](https://github.com/xteve-project/xTeVe-Documentation/blob/master/en/configuration.md).
-
-#### Donation
-* **Bitcoin:** 1c1iCe4CJPfNUXtqxKBbW2Qd2EtqRPWme  
-![Bitcoin](html/img/BC-QR.jpg "Bitcoin - xTeVe")
-
 ## Requirements
 ### Plex
 * Plex Media Server (1.11.1.4730 or newer)

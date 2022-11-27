@@ -9,15 +9,19 @@ import (
 )
 
 // System : Beinhaltet alle Systeminformationen
+// System : Contains all system information
 var System SystemStruct
 
 // WebScreenLog : Logs werden im RAM gespeichert und für das Webinterface bereitgestellt
+// WebScreenLog : Logs are stored in RAM and made available for the web interface
 var WebScreenLog WebScreenLogStruct
 
 // Settings : Inhalt der settings.json
+// Settings : Content of the settings.json
 var Settings SettingsStruct
 
 // Data : Alle Daten werden hier abgelegt. (Lineup, XMLTV)
+// Data : All data is stored here. (Lineup, XMLTV)
 var Data DataStruct
 
 // SystemFiles : Alle Systemdateien
